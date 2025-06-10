@@ -5,8 +5,8 @@ namespace LymeGame.Utils.Component {
 	/// <summary>
 	/// 冷却组件
 	/// </summary>
-	[AddComponentMenu("LymeGame/Cooldown")]
-	public class CooldownCom : MonoBehaviour {
+	[AddComponentMenu("LymeGame/Timer/Cooldown")]
+	public class TimerCom_Cooldown : MonoBehaviour {
 		public enum CooldownStates {
 			Idle,
 			Consuming,

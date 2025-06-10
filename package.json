@@ -1,11 +1,11 @@
 {
-    "name": "com.eatjune.componentutility",
-    "displayName": "ComponentUtility",
-    "version": "0.0.1",
+    "name": "com.eatjune.componentutils",
+    "displayName": "ComponentUtils",
+    "version": "0.0.2",
     "unity": "2022.3",
     "unityRelease": "40f1",
-    "description": "Component Utility",
-    "keywords": ["Utility","Component","Unity"],
+    "description": "Component Utils",
+    "keywords": ["Utils","Component","Unity"],
     "author": "EatJune",
     "dependencies":{
         "com.unity.mathematics": "1.2.6"
