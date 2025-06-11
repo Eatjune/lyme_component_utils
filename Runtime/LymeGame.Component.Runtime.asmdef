@@ -1,6 +1,5 @@
 {
-  "name": "componentLib",
-  "rootNamespace": "",
+  "name": "LymeGame.Component.Runtime",
   "references": [
     "Unity.Mathematics"
   ],
